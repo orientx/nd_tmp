@@ -1,0 +1,24 @@
+{
+  "name": "nd_temp",
+  "version": "1.0.0",
+  "description": "\"# nd_tmp\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orientx/nd_tmp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orientx/nd_tmp/issues"
+  },
+  "homepage": "https://github.com/orientx/nd_tmp#readme",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "express": "^4.15.0",
+    "supervisor": "^0.12.0"
+  }
+}

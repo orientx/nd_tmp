@@ -1,1 +1,2 @@
-consollog('Welcome to nodejs test world!!! ^^');
+consollog('Welcome to nodejs hi world!!! ^^');
+consollog('');
